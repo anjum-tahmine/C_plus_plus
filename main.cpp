@@ -1,5 +1,5 @@
 #include<iostream>
-define pi =3.1416;
+#define pi 3.1416
 using namespace std;
 int main(){
   int r;
